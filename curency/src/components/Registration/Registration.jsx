@@ -92,10 +92,7 @@ function Registration() {
 
             </form> : <Login />}
             </div> : <div>
-                    <p><strong>Company:</strong> Geeksynergy Technologies PVT Ltd</p>
-                    <p><strong>Address:</strong> Sanjaynagar, Bengaluru-56</p>
-                    <p><strong>Phone:</strong> XXXXXXXXXX09</p>
-                    <p><strong>Email:</strong> XXXXXXXX@gmail.com</p>
+                    
                 </div>}
         </>
     )
